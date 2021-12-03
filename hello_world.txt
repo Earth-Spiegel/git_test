@@ -1,0 +1,2 @@
+let var = "hello world";
+console.log(var);
